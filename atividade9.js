@@ -1,4 +1,3 @@
-
-function  click(){
-    document.getElementById(paragrafo).innerHTML = parseInt(document.getElementById(paragrafo).innerHTML) + 1
+function clique(){
+    document.getElementById("text").innerHTML = parseInt(document.getElementById("text").innerHTML) + 1
 }
